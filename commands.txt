@@ -5,3 +5,7 @@ git status: lists all untracked files
 git add -A : adding all untracked files
 
 git commit -m "commit message" : commiting to repository
+
+git config --global user.name "username"
+
+git config --global user.email "email"
